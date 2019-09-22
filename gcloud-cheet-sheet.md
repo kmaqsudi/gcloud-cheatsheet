@@ -1,3 +1,5 @@
+All credit for this doc:  Victor Yang
+
 Table of Contents
 =================
 * [References](#references)
